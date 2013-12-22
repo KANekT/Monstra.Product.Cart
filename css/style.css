@@ -1,0 +1,232 @@
+h1 {
+    font-size: 26px;
+    margin: 0 0 10px;
+}
+
+h3 {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.alignright {
+    text-align: right;
+}
+
+.breadcrumbs {
+    color: #333;
+    font-size: 10px;
+    margin: 0 0 10px;
+}
+
+.breadcrumbs a {
+    color: #333;
+    font-size: 10px;
+    margin: 0 0 10px;
+    text-decoration: underline;
+}
+
+.breadcrumbs a:hover {
+    text-decoration: none;
+}
+
+#catalog {
+    margin: 10px auto;
+    width: 680px;
+}
+
+#catalog a {
+    color: #333;
+    text-decoration: underline;
+}
+
+#catalog a:hover {
+    text-decoration: none;
+}
+
+#catalog table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#catalog table td {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    line-height: 18px;
+    padding: 5px;
+}
+
+#catalog table tr:hover {
+    background: #f8f8f8;
+}
+
+#catalog .add{
+    cursor: pointer;
+}
+
+#products {
+    margin: 10px auto;
+    width: 680px;
+}
+
+#products a {
+    color: #333;
+    text-decoration: underline;
+}
+
+#products a:hover {
+    text-decoration: none;
+}
+
+#products table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#products table td {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    line-height: 18px;
+    padding: 5px;
+}
+
+#products table tr:hover {
+    background: #f8f8f8;
+}
+
+#products table .button {
+    width: 14px;
+}
+
+#product {
+    margin: 10px auto;
+    width: 680px;
+}
+
+#product .photo {
+    margin: 0;
+    float: left;
+    width: 320px;
+}
+
+#product .img01 {
+    margin: 0 0 20px;
+}
+
+#product .img02 {
+    margin: 0 16px 0 0;
+}
+
+#product .img03 {
+    margin: 0;
+}
+
+#product a.img01 {
+    width: 320px;
+    height: 240px;
+    display: inline;
+}
+
+#product a.img02 {
+    width: 150px;
+    height: 113px;
+    display: inline;
+}
+
+#product a.img03 {
+    width: 150px;
+    height: 113px;
+    display: inline;
+}
+
+#product .description {
+    margin: 0;
+    float: right;
+    width: 340px;
+}
+
+#product .price {
+    float: right;
+    font-size: 24px;
+    margin: 10px 0 20px;
+    text-align: right;
+    width: 340px;
+}
+
+#product .buy {
+    float: right;
+}
+
+#order {
+    margin: 10px auto;
+    width: 680px;
+}
+
+#order .amount {
+    float: right;
+    text-align: right;
+    width: 60px;
+}
+
+#order a {
+    color: #333;
+    text-decoration: underline;
+}
+
+#order a:hover {
+    text-decoration: none;
+}
+
+#order table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#order table th {
+    background: #eee;
+    line-height: 18px;
+    padding: 5px;
+    text-align: left;
+}
+
+#order table td {
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    line-height: 18px;
+    padding: 5px;
+
+}
+
+#order table tr:hover {
+    background: #f8f8f8;
+}
+
+#order table .button {
+    width: 14px;
+}
+
+#order .form {
+    background: #f8f8f8;
+    border-radius: 10px;
+    margin: 30px 0 0;
+    padding: 10px;
+    width: 660px;
+}
+
+#order .input {
+    margin: 10px 0 15px;
+    width: 660px;
+}
+
+#basket {
+    background: #f8f8f8;
+    margin: 10px auto;
+}
+
+#basket a {
+    color: #333;
+    text-decoration: underline;
+}
+
+#basket a:hover {
+    text-decoration: none;
+}
